@@ -1,10 +1,6 @@
 # chatterbox
 Chatterbox is a real-time chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack along with Socket.IO for WebSocket communication. It provides users with a seamless chatting experience, enabling them to communicate instantly with others in real-time.
 
-# Chatterbox
-
-Chatterbox is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) along with Socket.IO for WebSocket communication. It provides users with a seamless chatting experience, enabling them to communicate instantly with others in real-time.
-
 ## Features
 - Real-time messaging: Chat instantly with other users in real-time.
 - User authentication: Secure user authentication and authorization system.
