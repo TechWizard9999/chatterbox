@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="chatterbox_logo.png" alt="Chatterbox Logo" width="200">
   <h1>Chatterbox</h1>
   <p>Real-Time Chat Application</p>
 </div>
